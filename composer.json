@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/zakat-php-gold-silver-nisab",
+  "description": "Multi-Karat Gold (85g 24K) & Silver (595g) Nisab Zakat Engine (حاسبة نصاب الذهب والفضة والأوراق النقدية بالعيارات)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
